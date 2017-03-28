@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="26px" height="17px" viewBox="0 0 26 17" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>scroll-up</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="V12" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="scroll-up" transform="translate(1.000000, 0.000000)" stroke="#FFFFFF">
+            <g id="Group">
+                <path d="M22.620019,10.37999 L14.120019,1.37999 L14.120019,1.37998997 C12.948749,0.210179974 11.051289,0.210179974 9.88001897,1.37999003 L1.38001897,10.37999 L1.38001904,10.37999 C0.167849043,11.5095 0.100839043,13.40782 1.23035304,14.61999 C2.35986304,15.83216 4.25818304,15.89917 5.47035304,14.769656 C5.52198674,14.7215432 5.57190704,14.6716234 5.62001904,14.61999 L12.000019,7.86998996 L18.380019,14.61999 L18.380019,14.6199899 C19.509529,15.8321599 21.407849,15.8991699 22.620019,14.7696559 C23.832189,13.6401459 23.899199,11.7418259 22.769685,10.5296559 C22.7215722,10.4780222 22.6716524,10.4281019 22.620019,10.3799899 L22.620019,10.37999 Z" id="Shape"></path>
+            </g>
+        </g>
+    </g>
+</svg>

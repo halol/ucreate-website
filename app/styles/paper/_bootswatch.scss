@@ -132,6 +132,10 @@ $web-font-path: "https://fonts.googleapis.com/css?family=Roboto:300,400,500,700"
   }
 
   &-default {
+    color: $btn-default-color;
+    &:hover {
+      color: $btn-default-color;
+    }
     &.disabled,
     &[disabled],
     fieldset[disabled] & {
@@ -142,6 +146,7 @@ $web-font-path: "https://fonts.googleapis.com/css?family=Roboto:300,400,500,700"
       &:hover,
       &:focus {
         background-color: rgba(0, 0, 0, 0.1);
+
       }
     }
   }

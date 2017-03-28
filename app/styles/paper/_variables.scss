@@ -15,12 +15,12 @@ $gray:                   #666 !default;
 $gray-light:             #bbb !default;
 $gray-lighter:           lighten($gray-base, 93.5%) !default; // #eee
 
-$brand-primary:         #3B0EAA !default;
+$brand-primary:         #6F56A9 !default;
 $brand-secondary:       #0EDBF2 !default;
 $brand-success:         #1DF97B !default;
-$brand-info:            #9C27B0 !default;
-$brand-warning:         #ff9800 !default;
-$brand-danger:          #e51c23 !default;
+$brand-info:            #46DCFA !default;
+$brand-warning:         #FBA047 !default;
+$brand-danger:          #FA4646 !default;
 
 
 //== Scaffolding
@@ -326,7 +326,7 @@ $screen-md-max:              ($screen-lg-min - 1) !default;
 //** Number of columns in the grid.
 $grid-columns:              12 !default;
 //** Padding between columns. Gets divided in half for the left and right.
-$grid-gutter-width:         30px !default;
+$grid-gutter-width:         48px !default;
 // Navbar collapse
 //** Point at which the navbar becomes uncollapsed.
 $grid-float-breakpoint:     $screen-sm-min !default;
