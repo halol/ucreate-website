@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="90px" height="78px" viewBox="0 0 90 78" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>build/omni</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="V12" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="ucreate-v12-Final" transform="translate(-1027.000000, -1076.000000)" stroke-width="3" stroke="#FFFFFF">
+            <g id="build/omni" transform="translate(1028.000000, 1077.000000)">
+                <g id="Group">
+                    <g id="path-1-link" transform="translate(27.353540, 66.353600)">
+                        <path d="M2.707107,0.585786 C3.292893,1.171572 3.292893,2.121321 2.707107,2.707107 C2.121321,3.292893 1.171572,3.292893 0.585786,2.707107 C-8.91231533e-14,2.121321 -8.91231533e-14,1.171572 0.585786,0.585786 C1.171572,-8.91231533e-14 2.121321,-8.91231533e-14 2.707107,0.585786" id="path-1"></path>
+                    </g>
+                    <path d="M0.5,59 L45.5,59" id="Shape"></path>
+                    <g id="path-1-link" transform="translate(49.853600, 4.853540)" fill-rule="nonzero" fill="#FFFFFF">
+                        <path d="M2.707107,0.585786 C3.292893,1.171572 3.292893,2.121321 2.707107,2.707107 C2.121321,3.292893 1.171572,3.292893 0.585786,2.707107 C-8.91231533e-14,2.121321 -8.91231533e-14,1.171572 0.585786,0.585786 C1.171572,-8.91231533e-14 2.121321,-8.91231533e-14 2.707107,0.585786" id="path-1"></path>
+                    </g>
+                    <g id="path-1-link" transform="translate(79.853600, 16.853540)" fill-rule="nonzero" fill="#FFFFFF">
+                        <path d="M2.707107,0.585786 C3.292893,1.171572 3.292893,2.121321 2.707107,2.707107 C2.121321,3.292893 1.171572,3.292893 0.585786,2.707107 C-8.91231533e-14,2.121321 -8.91231533e-14,1.171572 0.585786,0.585786 C1.171572,-8.920642e-14 2.121321,-8.920642e-14 2.707107,0.585786" id="path-1"></path>
+                    </g>
+                    <path d="M50,12.5 L83,12.5 C85.4,12.5 87.5,14.6 87.5,17 L87.5,71 C87.5,73.4 85.4,75.5 83,75.5 L50,75.5 C47.6,75.5 45.5,73.4 45.5,71 L45.5,17 C45.5,14.6 47.6,12.5 50,12.5 Z" id="Shape"></path>
+                    <path d="M63.5,17 L69.5,17" id="Shape"></path>
+                    <path d="M45.5,65 L87.5,65" id="Shape"></path>
+                    <path d="M50,75.5 L5,75.5 C2.6,75.5 0.5,73.4 0.5,71 L0.5,5 C0.5,2.6 2.6,0.5 5,0.5 L53,0.5 C55.4,0.5 57.5,2.6 57.5,5 L57.5,12.5" id="Shape"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

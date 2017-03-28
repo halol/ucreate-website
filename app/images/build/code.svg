@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="78px" height="78px" viewBox="0 0 78 78" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>build/code</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="V12" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="ucreate-v12-Final" transform="translate(-171.000000, -1076.000000)" stroke-width="3" stroke="#FFFFFF">
+            <g id="build/code" transform="translate(172.000000, 1077.000000)">
+                <g id="Group">
+                    <path d="M5,75.5 C2.51474,75.5 0.5,73.48526 0.5,71 L0.5,5 C0.5,2.51474 2.51474,0.5 5,0.5 L71,0.5 C73.48526,0.5 75.5,2.51474 75.5,5 L75.5,71 C75.5,73.48526 73.48526,75.5 71,75.5 L5,75.5 Z" id="Shape"></path>
+                    <path d="M0.5,11 L75.5,11" id="Shape"></path>
+                    <g id="path-1-link" transform="translate(16.853540, 4.853540)" fill-rule="nonzero" fill="#FFFFFF">
+                        <path d="M2.707107,0.585786 C3.292893,1.171572 3.292893,2.121321 2.707107,2.707107 C2.121321,3.292893 1.171572,3.292893 0.585786,2.707107 C-8.920642e-14,2.121321 -8.920642e-14,1.171572 0.585786,0.585786 C1.171572,-8.91231533e-14 2.121321,-8.91231533e-14 2.707107,0.585786" id="path-1"></path>
+                    </g>
+                    <g id="path-1-link" transform="translate(10.853540, 4.853540)" fill-rule="nonzero" fill="#FFFFFF">
+                        <path d="M2.707107,0.585786 C3.292893,1.171572 3.292893,2.121321 2.707107,2.707107 C2.121321,3.292893 1.171572,3.292893 0.585786,2.707107 C-8.91231533e-14,2.121321 -8.91231533e-14,1.171572 0.585786,0.585786 C1.171572,-8.91231533e-14 2.121321,-8.91231533e-14 2.707107,0.585786" id="path-1"></path>
+                    </g>
+                    <g id="path-1-link" transform="translate(4.853540, 4.853540)" fill-rule="nonzero" fill="#FFFFFF">
+                        <path d="M2.707107,0.585786 C3.292893,1.171572 3.292893,2.121321 2.707107,2.707107 C2.121321,3.292893 1.171572,3.292893 0.585786,2.707107 C-8.91231533e-14,2.121321 -8.91231533e-14,1.171572 0.585786,0.585786 C1.171572,-8.91231533e-14 2.121321,-8.91231533e-14 2.707107,0.585786" id="path-1"></path>
+                    </g>
+                    <polyline id="Shape" points="30.5 33.5 18.5 44 30.5 54.5"></polyline>
+                    <path d="M35,57.5 L41,30.5" id="Shape"></path>
+                    <polyline id="Shape" points="45.5 54.5 57.5 44 45.5 33.5"></polyline>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

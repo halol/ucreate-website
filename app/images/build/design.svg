@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="66px" height="90px" viewBox="0 0 66 90" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>build/design</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="V12" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="ucreate-v12-Final" transform="translate(-464.000000, -1064.000000)" stroke-width="3" stroke="#FFFFFF">
+            <g id="build/design" transform="translate(465.000000, 1065.000000)">
+                <g id="Group">
+                    <path d="M44,87.5 L11,87.5 C8.6,87.5 6.5,85.4 6.5,83 L6.5,45.5 L6.5,45.5 L48.5,45.5 L48.5,45.5 L48.5,83 C48.5,85.4 46.4,87.5 44,87.5 Z" id="Shape"></path>
+                    <polyline id="Shape" points="33.5 45.5 33.5 0.5 18.5 0.5 18.5 45.5"></polyline>
+                    <g id="path-1-link" transform="translate(18.500000, 9.500000)">
+                        <path d="M0,0 L6,0" id="path-1"></path>
+                    </g>
+                    <g id="path-2-link" transform="translate(18.500000, 18.500000)">
+                        <path d="M6,0 L0,0" id="path-2"></path>
+                    </g>
+                    <g id="path-2-link" transform="translate(18.500000, 27.500000)">
+                        <path d="M6,0 L0,0" id="path-2"></path>
+                    </g>
+                    <polyline id="Shape" points="17 45.5 8 11 0.5 0.5 0.5 13.1 9.5 45.5"></polyline>
+                    <path d="M8,11 L0.5,13.1" id="Shape"></path>
+                    <path d="M48.5,48.5 L57.5,48.5 C60.8,48.5 63.5,51.2 63.5,54.5 L63.5,60.5 C63.5,67.1 58.1,72.5 51.5,72.5 L48.5,72.5" id="Shape"></path>
+                    <path d="M47,45.5 L53,24.2" id="Shape"></path>
+                    <path d="M45.8,21.8 L38,45.5" id="Shape"></path>
+                    <path d="M44,16.4 C44,11.9 51.5,7.1 51.5,0.5 C58.1,8 59,12.2 59,16.4 C59.3,20.6 56.3,24.2 52.1,24.5 C47.9,24.8 44.3,21.8 44,17.6 L44,16.4 Z" id="Shape"></path>
+                    <g id="path-1-link" transform="translate(18.500000, 36.500000)">
+                        <path d="M0,0 L6,0" id="path-1"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

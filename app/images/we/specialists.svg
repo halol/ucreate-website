@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="72px" viewBox="0 0 48 72" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>we/specialists</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="V12" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="ucreate-v12-Final" transform="translate(-186.000000, -1676.000000)" stroke-width="3" stroke="#0EDBF2">
+            <g id="we/specialists" transform="translate(186.000000, 1676.000000)">
+                <g id="Group">
+                    <polyline id="Shape" points="22.5 12 25.5 12 25.5 30"></polyline>
+                    <g transform="translate(3.000000, 0.000000)" id="Shape">
+                        <path d="M34.7886,7.211424 C42.40383,14.826654 42.40383,27.173364 34.7886,34.788594 C27.17337,42.403824 14.82666,42.403824 7.21143,34.788594 C-0.4038,27.173364 -0.4038,14.826654 7.21143,7.211424 C14.82666,-0.403806 27.17337,-0.403806 34.7886,7.211424"></path>
+                    </g>
+                    <path d="M39.3,33.3 C39.3,33.3 46.5,58.5 46.5,67.5 C43.5,64.8 39.9,62.7 36,61.5 L28.5,70.5 C28.5,70.5 28.2,44.7 24,40.5" id="Shape"></path>
+                    <path d="M8.7,33.3 C8.7,33.3 1.5,58.5 1.5,67.5 C4.5,64.8 8.1,62.7 12,61.5 L19.5,70.5 C19.5,70.5 19.8,44.7 24,40.5" id="Shape"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
